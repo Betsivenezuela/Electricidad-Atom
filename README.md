@@ -18,7 +18,7 @@ Esta landing page fue diseñada para el emprendimiento *Electricidad ATOM*, una 
 
 ## 📂 Enlace al sitio
 
-➡️ [electricidadatom.github.io/landing-emprendimiento](https://tuusuario.github.io/landing-emprendimiento)
+➡️ [[electricidadatom.github.io/landing-emprendimiento](https://tuusuario.github.io/landing-emprendimiento)](https://github.com/Betsivenezuela/Electricidad-Atom.git)
 
 ## 📝 Historial de commits
 
